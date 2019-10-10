@@ -1,0 +1,30 @@
+{
+  "name": "CoverMaker",
+  "link": "http://thumbnailmaker.com/",
+  "list": [
+    {
+      "post_id": "fb",
+      "name": "COVER FOR",
+      "bold": "FACEBOOK",
+      "dimension": "815 x 315",
+      "thumb": "thumb/wo2.jpg",
+      "link":"info"
+    },
+    {
+      "post_id": "yt",
+      "name": "COVER FOR",
+      "bold": "YOUTUBE",
+      "dimension": "1280 x 720",
+      "thumb": "thumb/wo2.jpg",
+      "link":"info"
+    },
+    {
+      "post_id": "ig",
+      "name": "COVER FOR",
+      "bold": "INSTAGRAM",
+      "dimension": "1280 x 720",
+      "thumb": "thumb/wo2.jpg",
+      "link":"info"
+    }
+  ]
+}

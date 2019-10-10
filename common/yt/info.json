@@ -1,0 +1,35 @@
+{
+  "thumb": "http://thumbnailmaker.com/img/",
+  "data": [
+    {
+      "name": "Food",
+      "list": [
+        {
+          "name":"post1",
+          "thumb": "wo2.jpg",
+          "ratio": "27:10"
+        },
+        {
+          "name":"post2",
+          "thumb": "wo2.jpg",
+          "ratio": "27:10"
+        }
+      ]
+    },
+    {
+      "name": "Fitness",
+      "list": [
+        {
+          "name":"post3",
+          "thumb": "03-07-2018__1530612143.jpg",
+          "ratio": "27:10"
+        },
+        {
+          "name":"post4",
+          "thumb": "03-07-2018__1530612143.jpg",
+          "ratio": "27:10"
+        }
+      ]
+    }
+  ]
+}
