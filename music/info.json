@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "None",
+      "list": [
+        {
+          "link": "post1",
+          "thumb": "res/thumb/wo2.jpg"
+        },
+        {
+          "link": "post2",
+          "thumb": "wo2.jpg"
+        }
+      ]
+    }
+  ],
+  "type": 1
+}

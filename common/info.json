@@ -1,26 +1,46 @@
 {
   "name": "CoverMaker",
-  "list": [
+  "data": [
     {
-      "name": "COVER FOR",
-      "bold": "FACEBOOK",
-      "dimension": "815 x 315",
-      "thumb": "res/thumb/wo2.jpg",
-      "link":"fb/info.json"
+      "name": "Cover for",
+      "link": "music/info.json",
+      "type": 1,
+      "middle": "FACEBOOK",
+      "sub": "815 x 315",
+      "bg": "#174c9a",
+      "textColor": "#ffffff"
     },
     {
-      "name": "COVER FOR",
-      "bold": "YOUTUBE",
-      "dimension": "1280 x 720",
-      "thumb": "res/thumb/wo2.jpg",
-      "link":"fb/info.json"
+      "name": "Thumb for",
+      "link": "fb/info.json",
+      "type": 1,
+      "middle": "YOUTUBE",
+      "sub": "1280 X 720",
+      "bg": "#ff032a",
+      "textColor": "#ffffff"
     },
     {
-      "name": "COVER FOR",
-      "bold": "INSTAGRAM",
-      "dimension": "1280 x 720",
-      "thumb": "res/thumb/wo2.jpg",
-      "link":"ig/info.json"
+      "thumb": "res/bg.png",
+      "link": "fb/info.json",
+      "type": 2,
+      "subType": [
+        {
+          "type": 1,
+          "name": "Post for",
+          "middle": "Facebook",
+          "sub": "1080 X 1080",
+          "textColor": "#ffffff",
+          "link": "fb/info.json"
+        },
+        {
+          "type": 1,
+          "name": "Post for",
+          "middle": "Instagram",
+          "sub": "1080 X 1080",
+          "textColor": "#ffffff",
+          "link": "fb/info.json"
+        }
+      ]
     }
   ]
 }

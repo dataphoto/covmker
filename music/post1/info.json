@@ -1,0 +1,57 @@
+{
+  "name": "template_1",
+  "background": "background/bg_template_1.jpg",
+  "text": [{
+    "text": "MUSIC",
+    "color": "#FFFFFF",
+    "size": "30.94 ",
+    "font": "fonts/ProximaNova-Regular.ttf",
+    "x": "485",
+    "y": "52"
+  },
+    {
+      "text": "CLASSICAL",
+      "color": "#ffbd1b",
+      "size": "55.44",
+      "font": "fonts/02_APompadourTextSample.ttf",
+      "x": "464",
+      "y": "120"
+    },
+    {
+      "text": "By Christin Flortine",
+      "color": "#ffbd1b",
+      "size": "27.64 ",
+      "font": "fonts/ProximaNova-Regular.ttf",
+      "x": "469",
+      "y": "186",
+      "style": "",
+      "spacing": "",
+      "line": "",
+      "align": ""
+    },
+    {
+      "text": "Since 1998 from American, Texas 153",
+      "color": "#000000",
+      "size": "20",
+      "font": "fonts/Proxima Nova Thin.ttf",
+      "x": "469",
+      "y": "253"
+    }
+  ],
+  "image": [
+    {
+      "path": "image/template_img_1.png",
+      "x": "0",
+      "y":"0",
+      "width":"224.5",
+      "height":"315"
+    },
+{
+      "path": "image/template_img_2.png",
+      "x": "224.5",
+      "y":"0",
+      "width":"129",
+      "height":"315"
+    }
+  ]
+}
