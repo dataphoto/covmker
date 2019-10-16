@@ -4,11 +4,15 @@
       "list": [
         {
           "link": "music/post1",
-          "thumb": "res/thumb/thumb-01.jpg"
+          "thumb": "res/thumb/thumb-01.jpg",
+          "test1": "qqq",
+          "test2": "dqwdq"
         },
         {
           "link": "music/post2",
-          "thumb": "res/thumb/thumb-02.jpg"
+          "thumb": "res/thumb/thumb-02.jpg",
+          "test1": "zzzz",
+          "test2": "dqwdq"
         }
       ]
     }
