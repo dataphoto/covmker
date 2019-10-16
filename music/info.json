@@ -3,11 +3,11 @@
     {
       "list": [
         {
-          "link": "post1",
+          "link": "music/post1",
           "thumb": "res/thumb/thumb-01.jpg"
         },
         {
-          "link": "post2",
+          "link": "music/post2",
           "thumb": "res/thumb/thumb-02.jpg"
         }
       ]
