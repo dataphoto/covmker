@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "list": [
+        {
+          "link": "data/music/post1",
+          "thumb": "res/thumbs/thumb-01.jpg"
+        },
+        {
+          "link": "data/music/post2",
+          "thumb": "res/thumbs/thumb-02.jpg"
+        },
+        {
+          "link": "data/music/post3",
+          "thumb": "res/thumbs/thumb-03.jpg"
+        },
+        {
+          "link": "data/music/post4",
+          "thumb": "res/thumbs/thumb-04.jpg"
+        }
+      ]
+    }
+  ],
+  "type": 1
+}
