@@ -3,23 +3,24 @@
     {
       "list": [
         {
-          "link": "music/post1",
+          "link": "data/music/post1",
           "thumb": "res/thumbs/thumb-01.jpg"
         },
         {
-          "link": "music/post2",
+          "link": "data/music/post2",
           "thumb": "res/thumbs/thumb-02.jpg"
         },
         {
-          "link": "music/post3",
+          "link": "data/music/post3",
           "thumb": "res/thumbs/thumb-03.jpg"
         },
         {
-          "link": "music/post4",
+          "link": "data/music/post4",
           "thumb": "res/thumbs/thumb-04.jpg"
         }
       ]
     }
   ],
-  "type": 1
+  "type": 1,
+  "banner": 4
 }
