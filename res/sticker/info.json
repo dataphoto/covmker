@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "link": "res/background/data/01.jpg",
+      "thumb": "res/background/thumbs/thumb-01.jpg"
+    },
+    {
+      "link": "res/background/data/02.jpg",
+      "thumb": "res/background/thumbs/thumb-02.jpg"
+    }
+  ]
+}
