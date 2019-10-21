@@ -127,6 +127,7 @@
   ],
   "type": 1,
   "banner": 4,
+  "native_ads":2,
   "sticker": "res/sticker/info.json",
   "background": "res/background/info.json"
 }
