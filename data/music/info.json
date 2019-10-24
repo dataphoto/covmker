@@ -127,7 +127,7 @@
   ],
   "type": 1,
   "banner": 4,
-  "native_ads": 2,
+  "native_ads_pos": 2,
   "sticker": "res/sticker/info.json",
   "background": "res/background/info.json",
   "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
