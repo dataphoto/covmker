@@ -4,128 +4,88 @@
       "list": [
         {
           "link": "data/film/post1",
-          "thumb": "res/thumbs/film/thumb-01.jpg"
+          "thumb": "res/thumbs/film/thumb_01.jpg"
         },
         {
           "link": "data/film/post2",
-          "thumb": "res/thumbs/film/thumb-02.jpg"
+          "thumb": "res/thumbs/film/thumb_02.jpg"
         },
         {
           "link": "data/film/post3",
-          "thumb": "res/thumbs/film/thumb-03.jpg"
+          "thumb": "res/thumbs/film/thumb_03.jpg"
         },
         {
           "link": "data/film/post4",
-          "thumb": "res/thumbs/film/thumb-04.jpg"
+          "thumb": "res/thumbs/film/thumb_04.jpg"
         },
         {
           "link": "data/film/post5",
-          "thumb": "res/thumbs/film/thumb-05.jpg"
+          "thumb": "res/thumbs/film/thumb_05.jpg"
         },
         {
           "link": "data/film/post6",
-          "thumb": "res/thumbs/film/thumb-06.jpg"
+          "thumb": "res/thumbs/film/thumb_06.jpg"
         },
         {
           "link": "data/film/post7",
-          "thumb": "res/thumbs/film/thumb-07.jpg"
+          "thumb": "res/thumbs/film/thumb_07.jpg"
         },
         {
           "link": "data/film/post8",
-          "thumb": "res/thumbs/film/thumb-08.jpg"
+          "thumb": "res/thumbs/film/thumb_08.jpg"
         },
         {
           "link": "data/film/post9",
-          "thumb": "res/thumbs/film/thumb-09.jpg"
+          "thumb": "res/thumbs/film/thumb_09.jpg"
         },
         {
           "link": "data/film/post10",
-          "thumb": "res/thumbs/film/thumb-10.jpg"
+          "thumb": "res/thumbs/film/thumb_10.jpg"
         },
         {
           "link": "data/film/post11",
-          "thumb": "res/thumbs/film/thumb-11.jpg"
+          "thumb": "res/thumbs/film/thumb_11.jpg"
         },
         {
           "link": "data/film/post12",
-          "thumb": "res/thumbs/film/thumb-12.jpg"
+          "thumb": "res/thumbs/film/thumb_12.jpg"
         },
         {
           "link": "data/film/post13",
-          "thumb": "res/thumbs/film/thumb-13.jpg"
+          "thumb": "res/thumbs/film/thumb_13.jpg"
         },
         {
           "link": "data/film/post14",
-          "thumb": "res/thumbs/film/thumb-14.jpg"
+          "thumb": "res/thumbs/film/thumb_14.jpg"
         },
         {
           "link": "data/film/post15",
-          "thumb": "res/thumbs/film/thumb-15.jpg"
+          "thumb": "res/thumbs/film/thumb_15.jpg"
         },
         {
           "link": "data/film/post16",
-          "thumb": "res/thumbs/film/thumb-16.jpg"
+          "thumb": "res/thumbs/film/thumb_16.jpg"
         },
         {
           "link": "data/film/post17",
-          "thumb": "res/thumbs/film/thumb-17.jpg"
+          "thumb": "res/thumbs/film/thumb_17.jpg"
         },
         {
           "link": "data/film/post18",
-          "thumb": "res/thumbs/film/thumb-18.jpg"
+          "thumb": "res/thumbs/film/thumb_18.jpg"
         },
         {
           "link": "data/film/post19",
-          "thumb": "res/thumbs/film/thumb-19.jpg"
+          "thumb": "res/thumbs/film/thumb_19.jpg"
         },
         {
           "link": "data/film/post20",
-          "thumb": "res/thumbs/film/thumb-20.jpg"
-        },
-        {
-          "link": "data/film/post21",
-          "thumb": "res/thumbs/film/thumb-21.jpg"
-        },
-        {
-          "link": "data/film/post22",
-          "thumb": "res/thumbs/film/thumb-22.jpg"
-        },
-        {
-          "link": "data/film/post23",
-          "thumb": "res/thumbs/film/thumb-23.jpg"
-        },
-        {
-          "link": "data/film/post24",
-          "thumb": "res/thumbs/film/thumb-24.jpg"
-        },
-        {
-          "link": "data/film/post25",
-          "thumb": "res/thumbs/film/thumb-25.jpg"
-        },
-        {
-          "link": "data/film/post26",
-          "thumb": "res/thumbs/film/thumb-26.jpg"
-        },
-        {
-          "link": "data/film/post27",
-          "thumb": "res/thumbs/film/thumb-27.jpg"
-        },
-        {
-          "link": "data/film/post28",
-          "thumb": "res/thumbs/film/thumb-28.jpg"
-        },
-        {
-          "link": "data/film/post29",
-          "thumb": "res/thumbs/film/thumb-29.jpg"
-        },
-        {
-          "link": "data/film/post30",
-          "thumb": "res/thumbs/film/thumb-30.jpg"
+          "thumb": "res/thumbs/film/thumb_20.jpg"
         }
       ]
     }
   ],
-  "type": 1,
+  "type": 2,
   "banner": 5,
   "native_ads_pos": 1,
   "sticker": "res/album/sticker/info.json",
