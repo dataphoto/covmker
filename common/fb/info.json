@@ -1,128 +1,137 @@
 {
-    "data": [
-      {
-        "list": [
-          {
-            "link": "data/music/post1",
-            "thumb": "res/thumbs/music/thumb-01.jpg"
-          },
-          {
-            "link": "data/music/post2",
-            "thumb": "res/thumbs/music/thumb-02.jpg"
-          },
-          {
-            "link": "data/music/post3",
-            "thumb": "res/thumbs/music/thumb-03.jpg"
-          },
-          {
-            "link": "data/music/post4",
-            "thumb": "res/thumbs/music/thumb-04.jpg"
-          },
-          {
-            "link": "data/music/post5",
-            "thumb": "res/thumbs/music/thumb-05.jpg"
-          },
-          {
-            "link": "data/music/post6",
-            "thumb": "res/thumbs/music/thumb-06.jpg"
-          },
-          {
-            "link": "data/music/post7",
-            "thumb": "res/thumbs/music/thumb-07.jpg"
-          },
-          {
-            "link": "data/music/post8",
-            "thumb": "res/thumbs/music/thumb-08.jpg"
-          },
-          {
-            "link": "data/music/post9",
-            "thumb": "res/thumbs/music/thumb-09.jpg"
-          },
-          {
-            "link": "data/music/post10",
-            "thumb": "res/thumbs/music/thumb-10.jpg"
-          },
-          {
-            "link": "data/music/post11",
-            "thumb": "res/thumbs/music/thumb-11.jpg"
-          },
-          {
-            "link": "data/music/post12",
-            "thumb": "res/thumbs/music/thumb-12.jpg"
-          },
-          {
-            "link": "data/music/post13",
-            "thumb": "res/thumbs/music/thumb-13.jpg"
-          },
-          {
-            "link": "data/music/post14",
-            "thumb": "res/thumbs/music/thumb-14.jpg"
-          },
-          {
-            "link": "data/music/post15",
-            "thumb": "res/thumbs/music/thumb-15.jpg"
-          },
-          {
-            "link": "data/music/post16",
-            "thumb": "res/thumbs/music/thumb-16.jpg"
-          },
-          {
-            "link": "data/music/post17",
-            "thumb": "res/thumbs/music/thumb-17.jpg"
-          },
-          {
-            "link": "data/music/post18",
-            "thumb": "res/thumbs/music/thumb-18.jpg"
-          },
-          {
-            "link": "data/music/post19",
-            "thumb": "res/thumbs/music/thumb-19.jpg"
-          },
-          {
-            "link": "data/music/post20",
-            "thumb": "res/thumbs/music/thumb-20.jpg"
-          },
-          {
-            "link": "data/music/post21",
-            "thumb": "res/thumbs/music/thumb-21.jpg"
-          },
-          {
-            "link": "data/music/post22",
-            "thumb": "res/thumbs/music/thumb-22.jpg"
-          },
-          {
-            "link": "data/music/post23",
-            "thumb": "res/thumbs/music/thumb-23.jpg"
-          },
-          {
-            "link": "data/music/post24",
-            "thumb": "res/thumbs/music/thumb-24.jpg"
-          },
-          {
-            "link": "data/music/post25",
-            "thumb": "res/thumbs/music/thumb-25.jpg"
-          },
-          {
-            "link": "data/music/post26",
-            "thumb": "res/thumbs/music/thumb-26.jpg"
-          },
-          {
-            "link": "data/music/post27",
-            "thumb": "res/thumbs/music/thumb-27.jpg"
-          },
-          {
-            "link": "data/music/post28",
-            "thumb": "res/thumbs/music/thumb-28.jpg"
-          },
-          {
-            "link": "data/music/post29",
-            "thumb": "res/thumbs/music/thumb-29.jpg"
-          },
-          {
-            "link": "data/music/post30",
-            "thumb": "res/thumbs/music/thumb-30.jpg"
-          }
-        ]
-      }
-    ],
-  }
+  "data": [
+    {
+      "list": [
+        {
+          "link": "data/music/post1",
+          "thumb": "res/thumbs/music/thumb-01.jpg"
+        },
+        {
+          "link": "data/music/post2",
+          "thumb": "res/thumbs/music/thumb-02.jpg"
+        },
+        {
+          "link": "data/music/post3",
+          "thumb": "res/thumbs/music/thumb-03.jpg"
+        },
+        {
+          "link": "data/music/post4",
+          "thumb": "res/thumbs/music/thumb-04.jpg"
+        },
+        {
+          "link": "data/music/post5",
+          "thumb": "res/thumbs/music/thumb-05.jpg"
+        },
+        {
+          "link": "data/music/post6",
+          "thumb": "res/thumbs/music/thumb-06.jpg"
+        },
+        {
+          "link": "data/music/post7",
+          "thumb": "res/thumbs/music/thumb-07.jpg"
+        },
+        {
+          "link": "data/music/post8",
+          "thumb": "res/thumbs/music/thumb-08.jpg"
+        },
+        {
+          "link": "data/music/post9",
+          "thumb": "res/thumbs/music/thumb-09.jpg"
+        },
+        {
+          "link": "data/music/post10",
+          "thumb": "res/thumbs/music/thumb-10.jpg"
+        },
+        {
+          "link": "data/music/post11",
+          "thumb": "res/thumbs/music/thumb-11.jpg"
+        },
+        {
+          "link": "data/music/post12",
+          "thumb": "res/thumbs/music/thumb-12.jpg"
+        },
+        {
+          "link": "data/music/post13",
+          "thumb": "res/thumbs/music/thumb-13.jpg"
+        },
+        {
+          "link": "data/music/post14",
+          "thumb": "res/thumbs/music/thumb-14.jpg"
+        },
+        {
+          "link": "data/music/post15",
+          "thumb": "res/thumbs/music/thumb-15.jpg"
+        },
+        {
+          "link": "data/music/post16",
+          "thumb": "res/thumbs/music/thumb-16.jpg"
+        },
+        {
+          "link": "data/music/post17",
+          "thumb": "res/thumbs/music/thumb-17.jpg"
+        },
+        {
+          "link": "data/music/post18",
+          "thumb": "res/thumbs/music/thumb-18.jpg"
+        },
+        {
+          "link": "data/music/post19",
+          "thumb": "res/thumbs/music/thumb-19.jpg"
+        },
+        {
+          "link": "data/music/post20",
+          "thumb": "res/thumbs/music/thumb-20.jpg"
+        },
+        {
+          "link": "data/music/post21",
+          "thumb": "res/thumbs/music/thumb-21.jpg"
+        },
+        {
+          "link": "data/music/post22",
+          "thumb": "res/thumbs/music/thumb-22.jpg"
+        },
+        {
+          "link": "data/music/post23",
+          "thumb": "res/thumbs/music/thumb-23.jpg"
+        },
+        {
+          "link": "data/music/post24",
+          "thumb": "res/thumbs/music/thumb-24.jpg"
+        },
+        {
+          "link": "data/music/post25",
+          "thumb": "res/thumbs/music/thumb-25.jpg"
+        },
+        {
+          "link": "data/music/post26",
+          "thumb": "res/thumbs/music/thumb-26.jpg"
+        },
+        {
+          "link": "data/music/post27",
+          "thumb": "res/thumbs/music/thumb-27.jpg"
+        },
+        {
+          "link": "data/music/post28",
+          "thumb": "res/thumbs/music/thumb-28.jpg"
+        },
+        {
+          "link": "data/music/post29",
+          "thumb": "res/thumbs/music/thumb-29.jpg"
+        },
+        {
+          "link": "data/music/post30",
+          "thumb": "res/thumbs/music/thumb-30.jpg"
+        }
+      ]
+    }
+  ],
+  "type": 1,
+  "banner": 5,
+  "native_ads_pos": 1,
+  "sticker": "res/album/sticker/info.json",
+  "background": "res/album/background/info.json",
+  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
+  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
+  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q"
+}
