@@ -9,14 +9,14 @@
     },
     {
       "link" :"common/yt/info.json",
-      "bgText": "common/yt/bgText_fb.png",
+      "bgText": "common/yt/bgText_yt.png",
       "color" : "#ff001c"
      
     },
     {
       "link" :"common/in/info.json",
-      "bgText": "common/in/bgText_fb.png",
-      "bg" : ""
+      "bgText": "common/in/bgText_in.png",
+      "bg" : "common/in/bg_in.png"
      
     }
   ]
