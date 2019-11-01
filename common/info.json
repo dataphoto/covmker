@@ -3,14 +3,21 @@
   "data": [
     {
       "link" :"data/fb/info.json",
-      "bgText": "res/thumbs/test.jpg",
-      "color" : "#ff00ff"
+      "bgText": "data/fb/bgText_fb.png",
+      "color" : "#1130e1"
      
     },
     {
-      "link" :"data/fb/info.json",
-      "bgText": "res/thumbs/test.jpg",
-      "bg":"res/thumbs/test.jpg"
+      "link" :"data/yt/info.json",
+      "bgText": "data/yt/bgText_fb.png",
+      "color" : "#ff001c"
+     
+    },
+    {
+      "link" :"data/in/info.json",
+      "bgText": "data/in/bgText_fb.png",
+      "bg" : ""
+     
     }
   ]
 }
