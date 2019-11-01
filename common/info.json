@@ -2,20 +2,20 @@
   "name": "CoverMaker",
   "data": [
     {
-      "link" :"data/fb/info.json",
-      "bgText": "data/fb/bgText_fb.png",
+      "link" :"common/fb/info.json",
+      "bgText": "common/fb/bgText_fb.png",
       "color" : "#1130e1"
      
     },
     {
-      "link" :"data/yt/info.json",
-      "bgText": "data/yt/bgText_fb.png",
+      "link" :"common/yt/info.json",
+      "bgText": "common/yt/bgText_fb.png",
       "color" : "#ff001c"
      
     },
     {
-      "link" :"data/in/info.json",
-      "bgText": "data/in/bgText_fb.png",
+      "link" :"common/in/info.json",
+      "bgText": "common/in/bgText_fb.png",
       "bg" : ""
      
     }
