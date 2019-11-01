@@ -15,7 +15,6 @@
     },
     {
       "link" :"common/in/info.json",
-      "bgText": "common/in/bgText_in.png",
       "bg" : "common/in/bg_in.png"
      
     }
