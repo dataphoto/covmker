@@ -11,23 +11,23 @@
   "slider": [
     {
       "link": "data/film/post1",
-      "thumb": "res/template/film/thumbs/thumb_01.jpg"
+      "thumb": "res/template/film/thumbs/thumb_1.jpg"
     },
     {
       "link": "data/film/post2",
-      "thumb": "res/template/film/thumbs/thumb_02.jpg"
+      "thumb": "res/template/film/thumbs/thumb_2.jpg"
     },
     {
       "link": "data/film/post3",
-      "thumb": "res/template/film/thumbs/thumb_03.jpg"
+      "thumb": "res/template/film/thumbs/thumb_3.jpg"
     },
     {
       "link": "data/film/post4",
-      "thumb": "res/template/film/thumbs/thumb_04.jpg"
+      "thumb": "res/template/film/thumbs/thumb_4.jpg"
     },
     {
       "link": "data/film/post5",
-      "thumb": "res/template/film/thumbs/thumb_05.jpg"
+      "thumb": "res/template/film/thumbs/thumb_5.jpg"
     }
   ]
 }
