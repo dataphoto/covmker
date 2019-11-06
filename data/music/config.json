@@ -2,8 +2,8 @@
   "type": 1,
   "banner": 5,
   "native_ads_pos": 1,
-  "sticker": "res/album/sticker/info.json",
-  "background": "res/album/background/info.json",
+  "sticker": "res/template/album/sticker/info.json",
+  "background": "res/template/album/background/info.json",
   "am_ba": "oOQWOrUmH2lFtj8FI5Ev79BcN/WaZ9YngOiITNm9tOktXIF2BfYItPyBL/QlUy5m",
   "am_in": "oOQWOrUmH2lFtj8FI5Ev71oKPwPKUHqGRYN0si88okcdFr8RHBpJQawdEBK2/F3m",
   "am_na": "oOQWOrUmH2lFtj8FI5Ev75SAsu3dwXfMWvg/EXGArGRcKBCieLfZ2lP9lE9yPvqg",
@@ -11,23 +11,23 @@
   "slider": [
     {
       "link": "data/music/post18",
-      "thumb": "res/thumbs/music/thumb-18.jpg"
+      "thumb": "res/template/album/thumbs/thumb-18.jpg"
     },
     {
       "link": "data/music/post21",
-      "thumb": "res/thumbs/music/thumb-21.jpg"
+      "thumb": "res/template/album/thumbs/thumb-21.jpg"
     },
     {
       "link": "data/music/post23",
-      "thumb": "res/thumbs/music/thumb-23.jpg"
+      "thumb": "res/template/album/thumbs/thumb-23.jpg"
     },
     {
       "link": "data/music/post24",
-      "thumb": "res/thumbs/music/thumb-24.jpg"
+      "thumb": "res/template/album/thumbs/thumb-24.jpg"
     },
     {
       "link": "data/music/post26",
-      "thumb": "res/thumbs/music/thumb-26.jpg"
+      "thumb": "res/template/album/thumbs/thumb-26.jpg"
     }
   ]
 }

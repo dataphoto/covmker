@@ -4,83 +4,83 @@
       "list": [
         {
           "link": "data/film/post1",
-          "thumb": "res/thumbs/film/thumb_01.jpg"
+          "thumb": "res/template/film/thumbs/thumb_01.jpg"
         },
         {
           "link": "data/film/post2",
-          "thumb": "res/thumbs/film/thumb_02.jpg"
+          "thumb": "res/template/film/thumbs/thumb_02.jpg"
         },
         {
           "link": "data/film/post3",
-          "thumb": "res/thumbs/film/thumb_03.jpg"
+          "thumb": "res/template/film/thumbs/thumb_03.jpg"
         },
         {
           "link": "data/film/post4",
-          "thumb": "res/thumbs/film/thumb_04.jpg"
+          "thumb": "res/template/film/thumbs/thumb_04.jpg"
         },
         {
           "link": "data/film/post5",
-          "thumb": "res/thumbs/film/thumb_05.jpg"
+          "thumb": "res/template/film/thumbs/thumb_05.jpg"
         },
         {
           "link": "data/film/post6",
-          "thumb": "res/thumbs/film/thumb_06.jpg"
+          "thumb": "res/template/film/thumbs/thumb_06.jpg"
         },
         {
           "link": "data/film/post7",
-          "thumb": "res/thumbs/film/thumb_07.jpg"
+          "thumb": "res/template/film/thumbs/thumb_07.jpg"
         },
         {
           "link": "data/film/post8",
-          "thumb": "res/thumbs/film/thumb_08.jpg"
+          "thumb": "res/template/film/thumbs/thumb_08.jpg"
         },
         {
           "link": "data/film/post9",
-          "thumb": "res/thumbs/film/thumb_09.jpg"
+          "thumb": "res/template/film/thumbs/thumb_09.jpg"
         },
         {
           "link": "data/film/post10",
-          "thumb": "res/thumbs/film/thumb_10.jpg"
+          "thumb": "res/template/film/thumbs/thumb_10.jpg"
         },
         {
           "link": "data/film/post11",
-          "thumb": "res/thumbs/film/thumb_11.jpg"
+          "thumb": "res/template/film/thumbs/thumb_11.jpg"
         },
         {
           "link": "data/film/post12",
-          "thumb": "res/thumbs/film/thumb_12.jpg"
+          "thumb": "res/template/film/thumbs/thumb_12.jpg"
         },
         {
           "link": "data/film/post13",
-          "thumb": "res/thumbs/film/thumb_13.jpg"
+          "thumb": "res/template/film/thumbs/thumb_13.jpg"
         },
         {
           "link": "data/film/post14",
-          "thumb": "res/thumbs/film/thumb_14.jpg"
+          "thumb": "res/template/film/thumbs/thumb_14.jpg"
         },
         {
           "link": "data/film/post15",
-          "thumb": "res/thumbs/film/thumb_15.jpg"
+          "thumb": "res/template/film/thumbs/thumb_15.jpg"
         },
         {
           "link": "data/film/post16",
-          "thumb": "res/thumbs/film/thumb_16.jpg"
+          "thumb": "res/template/film/thumbs/thumb_16.jpg"
         },
         {
           "link": "data/film/post17",
-          "thumb": "res/thumbs/film/thumb_17.jpg"
+          "thumb": "res/template/film/thumbs/thumb_17.jpg"
         },
         {
           "link": "data/film/post18",
-          "thumb": "res/thumbs/film/thumb_18.jpg"
+          "thumb": "res/template/film/thumbs/thumb_18.jpg"
         },
         {
           "link": "data/film/post19",
-          "thumb": "res/thumbs/film/thumb_19.jpg"
+          "thumb": "res/template/film/thumbs/thumb_19.jpg"
         },
         {
           "link": "data/film/post20",
-          "thumb": "res/thumbs/film/thumb_20.jpg"
+          "thumb": "res/template/film/thumbs/thumb_20.jpg"
         }
       ]
     }
