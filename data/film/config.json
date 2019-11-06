@@ -10,24 +10,24 @@
   "link": "data/film/info.json",
   "slider": [
     {
-      "link": "data/music/post1",
-      "thumb": "res/template/film/thumbs/thumb-1.jpg"
+      "link": "data/film/post1",
+      "thumb": "res/template/film/thumbs/thumb_01.jpg"
     },
     {
-      "link": "data/music/post2",
-      "thumb": "res/template/film/thumbs/thumb-2.jpg"
+      "link": "data/film/post2",
+      "thumb": "res/template/film/thumbs/thumb_02.jpg"
     },
     {
-      "link": "data/music/post3",
-      "thumb": "res/template/film/thumbs/thumb-3.jpg"
+      "link": "data/film/post3",
+      "thumb": "res/template/film/thumbs/thumb_03.jpg"
     },
     {
-      "link": "data/music/post4",
-      "thumb": "res/template/film/thumbs/thumb-4.jpg"
+      "link": "data/film/post4",
+      "thumb": "res/template/film/thumbs/thumb_04.jpg"
     },
     {
-      "link": "data/music/post5",
-      "thumb": "res/template/film/thumbs/thumb-5.jpg"
+      "link": "data/film/post5",
+      "thumb": "res/template/film/thumbs/thumb_05.jpg"
     }
   ]
 }
