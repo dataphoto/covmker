@@ -1,6 +1,5 @@
 {
   "type": 1,
-  "banner": 5,
   "native_ads_pos": 1,
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
@@ -8,6 +7,8 @@
   "am_in": "oOQWOrUmH2lFtj8FI5Ev71oKPwPKUHqGRYN0si88okcdFr8RHBpJQawdEBK2/F3m",
   "am_na": "oOQWOrUmH2lFtj8FI5Ev75SAsu3dwXfMWvg/EXGArGRcKBCieLfZ2lP9lE9yPvqg",
   "am_vi":"oOQWOrUmH2lFtj8FI5Ev7zVHCW7Kg5XNpwBQBVy3TuFhzCTeLd1ntnMS7oqDOI91",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
   "link": "data/music/info.json",
   "slider": [
     {
