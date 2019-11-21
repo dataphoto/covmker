@@ -17,6 +17,18 @@
       "thumb": "res/template/party/thumbs/thumb_11.jpg"
     },
     {
+      "link": "data/party/post16",
+      "thumb": "res/template/party/thumbs/thumb_16.jpg"
+    },
+    {
+      "link": "data/party/post3",
+      "thumb": "res/template/party/thumbs/thumb_03.jpg"
+    },
+    {
+      "link": "data/party/post4",
+      "thumb": "res/template/party/thumbs/thumb_04.jpg"
+    },
+    {
       "link": "data/party/post6",
       "thumb": "res/template/party/thumbs/thumb_06.jpg"
     }
