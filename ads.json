@@ -3,7 +3,7 @@
   "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/Graphic.jpg", 
   "appName" : "Film Poster Maker",
   "shortDecripsion" : "Maximum flow rate:2250GPH at 23 ft of discharge",
-  "package" : "com.mm.photo",
+  "package" : "com.cover.maker",
   "link" : "",
   "actionText" : "VISIT SITE"
 }
