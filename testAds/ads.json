@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://seeklogo.com/images/P/picsart-icon-logo-EE8CEAAED8-seeklogo.com.png",
+      "cover": "https://cdn.lynda.com/course/782134/782134-636773541930864641-16x9.jpg",
+      "appName": "PicsArt Photo Editor",
+      "description": "Edit your photo like a pro with neon light, neon effect, neon spiral and neon art. This is a new trend photo edior in 2019. Let try and make different things!",
+      "package": "com.picsart.studio",
+      "link": "",
+      "actionText": "Visit App",
+      "type": "app"
+    },
+    {
+      "icon": "https://seeklogo.com/images/P/picsart-icon-logo-EE8CEAAED8-seeklogo.com.png",
+      "cover": "https://cdn.lynda.com/course/782134/782134-636773541930864641-16x9.jpg",
+      "appName": "Github.com",
+      "description": "See what launched at GitHub Universe\nSay hello to our new GitHub for mobile experience, get more from GitHub Actions and Packages, and learn how we’re shaping the future of software, together.",
+      "package": "com.frmart.photo",
+      "link": "https://github.com/",
+      "actionText": "Open Link",
+      "type": "link"
+    }
+  ]
+}
