@@ -9,7 +9,7 @@
   "am_vi":"oOQWOrUmH2lFtj8FI5Ev7zVHCW7Kg5XNpwBQBVy3TuFhzCTeLd1ntnMS7oqDOI91",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
-  "ads_app":"asd/ads.json",
+  "ads_app":"ads/ads.json",
   "link": "data/music/info.json",
   "slider": [
     {
