@@ -1,0 +1,36 @@
+{
+  "type": 1,
+  "native_ads_pos": 1,
+  "sticker": "res/template/album/sticker/info.json",
+  "background": "res/template/album/background/info.json",
+  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
+  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
+  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
+  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"asd/ads.json",
+  "link": "data/music/info.json",
+  "slider": [
+    {
+      "link": "data/music/post18",
+      "thumb": "res/template/album/thumbs/thumb-18.jpg"
+    },
+    {
+      "link": "data/music/post21",
+      "thumb": "res/template/album/thumbs/thumb-21.jpg"
+    },
+    {
+      "link": "data/music/post23",
+      "thumb": "res/template/album/thumbs/thumb-23.jpg"
+    },
+    {
+      "link": "data/music/post24",
+      "thumb": "res/template/album/thumbs/thumb-24.jpg"
+    },
+    {
+      "link": "data/music/post26",
+      "thumb": "res/template/album/thumbs/thumb-26.jpg"
+    }
+  ]
+}
