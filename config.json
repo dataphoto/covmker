@@ -1,5 +1,6 @@
 {
   "type": 1,
+  "gridCount" : 1,
   "banner": 5,
   "native_ads_pos": 1,
   "sticker": "res/template/wedding/sticker/info.json",
@@ -11,6 +12,7 @@
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
+  "ads_app":"ads/ads.json",
   "slider": [
     {
       "link": "data/wedding/post21",
