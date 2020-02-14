@@ -9,22 +9,28 @@
   "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
   "link": "data/wedding/info.json",
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
   "slider": [
     {
-      "link": "data/wedding/post17",
-      "thumb": "res/template/wedding/thumbs/thumb_17.jpg"
+      "link": "data/wedding/post21",
+      "thumb": "res/template/wedding/thumbs/thumb_21.jpg"
     },
     {
-      "link": "data/wedding/post13",
-      "thumb": "res/template/wedding/thumbs/thumb_13.jpg"
+      "link": "data/wedding/post23",
+      "thumb": "res/template/wedding/thumbs/thumb_23.jpg"
     },
     {
-      "link": "data/wedding/post7",
-      "thumb": "res/template/wedding/thumbs/thumb_07.jpg"
+      "link": "data/wedding/post25",
+      "thumb": "res/template/wedding/thumbs/thumb_25.jpg"
     },
     {
-      "link": "data/wedding/post9",
-      "thumb": "res/template/wedding/thumbs/thumb_09.jpg"
+      "link": "data/wedding/post27",
+      "thumb": "res/template/wedding/thumbs/thumb_27.jpg"
+    },
+    {
+      "link": "data/wedding/post29",
+      "thumb": "res/template/wedding/thumbs/thumb_29.jpg"
     }
   ]
 }
