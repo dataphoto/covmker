@@ -10,22 +10,22 @@
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",
-  "link": "data/music/info.json",
+  "link": "data/album/info.json",
   "slider": [
     {
-      "link": "data/music/post18",
+      "link": "data/album/post18",
       "thumb": "res/template/album/thumbs/thumb-18.jpg"
     },
     {
-      "link": "data/music/post21",
+      "link": "data/album/post21",
       "thumb": "res/template/album/thumbs/thumb-21.jpg"
     },
     {
-      "link": "data/music/post23",
+      "link": "data/album/post23",
       "thumb": "res/template/album/thumbs/thumb-23.jpg"
     },
     {
-      "link": "data/music/post24",
+      "link": "data/album/post24",
       "thumb": "res/template/album/thumbs/thumb-24.jpg"
     },
     {
