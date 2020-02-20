@@ -9,7 +9,7 @@
   "am_vi": "oOQWOrUmH2lFtj8FI5Ev747ozDs0tCmzQqogEmztNhThzoM2KYmT910FYKJXYNW4",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
-  "ads_app":"ads/ads.json",
+  "ads_app":"ads/newAds.json",
   "link": "data/film/info.json",
   "slider": [
     {

@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster.jpg",
+      "appName": "Film Poster Maker",
+      "description": "Film Poster Maker is the best app for creating beautiful film covers",
+      "package": "film.poster.photo.maker",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster2.jpg",
+      "appName": "Album Cover Creator",
+      "description": "Album Cover Creator is the best app for creating beautiful album covers. You can design amazing album art for your music albums or cd covers",
+      "package": "album.cover.creator",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
