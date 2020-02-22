@@ -11,7 +11,7 @@
   "am_vi": "oOQWOrUmH2lFtj8FI5Ev7wHD3WmTFpcnfmL+c9I1hsgrza7GEH0e9iGLxPisyTvZ",
 "watch_video":600,
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
-  "ads_app":"ads/ads.json",
+  "ads_app":"ads/newAds.json",
   "slider": [
     {
       "link": "data/birthday/post10",
