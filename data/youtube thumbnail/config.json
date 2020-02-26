@@ -1,6 +1,5 @@
 {
   "type": 1,
-  "banner": 5,
   "native_ads_pos": 1,
   "sticker": "res/template/youtube thumbnail/sticker/info.json",
   "background": "res/template/youtube thumbnail/background/info.json",
@@ -11,7 +10,7 @@
   "am_vi": "oOQWOrUmH2lFtj8FI5Ev70+oRPBw7Tzo47uQYVYnw4rPlV4zm014Qa4ic34UYylr",
 "watch_video":600,
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
-  "ads_app":"ads/ads.json",
+  "ads_app":"ads/newAds.json",
   "slider": [
     {
       "link": "data/youtube thumbnail/post17",

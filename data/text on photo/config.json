@@ -1,6 +1,5 @@
 {
   "type": 1,
-  "banner": 5,
   "native_ads_pos": 1,
   "sticker": "res/template/text on photo/sticker/info.json",
   "background": "res/template/text on photo/background/info.json",
@@ -11,7 +10,8 @@
   "am_vi": "oOQWOrUmH2lFtj8FI5Ev78EfwWMcTK/6YkENF/jshEAe+T7KggddOylIsTjM4JwQ",
 "watch_video":600,
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
-  "ads_app":"ads/ads.json",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
   "slider": [
     {
       "link": "data/text on photo/post17",
