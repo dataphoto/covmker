@@ -2,19 +2,19 @@
   "name": "CoverMaker",
   "data": [
     {
-      "link" :"common/fb/info.json",
+      "link" :"data/album/info.json",
       "bgText": "common/fb/bgText_fb.png",
       "color" : "#1130e1"
      
     },
     {
-      "link" :"common/yt/info.json",
+      "link" :"data/film/info.json",
       "bgText": "common/yt/bgText_yt.png",
       "color" : "#ff001c"
      
     },
     {
-      "link" :"common/in/info.json",
+      "link" :"data/party/info.json",
       "bg" : "common/in/bg_in.png"
      
     }
