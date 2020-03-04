@@ -22,6 +22,7 @@
       "bg": "data/ultimatethumbnail/birthday.jpg"
     },
     {
+      "gridCount":1,
       "link": "data/youtube thumbnail/info.json",
       "bg": "data/ultimatethumbnail/youtube.jpg"
     },
