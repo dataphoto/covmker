@@ -1,0 +1,37 @@
+{
+  "name": "UltimateThumbnail",
+  "data": [
+    {
+      "link": "data/album/info.json",
+      "bg": "data/ultimatethumbnail/album.jpg"
+    },
+    {
+      "link": "data/film/info.json",
+      "bg": "data/ultimatethumbnail/film.jpg"
+    },
+    {
+      "link": "data/text/info.json",
+      "bg": "data/ultimatethumbnail/text.jpg"
+    },
+    {
+      "link": "data/wedding/info.json",
+      "bg": "data/ultimatethumbnail/wedding.jpg"
+    },
+    {
+      "link": "data/birthday/info.json",
+      "bg": "data/ultimatethumbnail/birthday.jpg"
+    },
+    {
+      "link": "data/youtube/info.json",
+      "bg": "data/ultimatethumbnail/youtube.jpg"
+    },
+    {
+      "link": "data/facebook/info.json",
+      "bg": "data/ultimatethumbnail/facebook.jpg"
+    },
+    {
+      "link": "data/party/info.json",
+      "bg": "data/ultimatethumbnail/party.jpg"
+    }
+  ]
+}
