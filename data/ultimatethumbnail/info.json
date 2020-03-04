@@ -22,12 +22,12 @@
       "bg": "data/ultimatethumbnail/birthday.jpg"
     },
     {
-      "link": "data/youtube/info.json",
+      "link": "data/youtube thumbnail/info.json",
       "bg": "data/ultimatethumbnail/youtube.jpg"
     },
     {
       "gridCount":1,
-      "link": "data/facebook/info.json",
+      "link": "data/cover facebook/info.json",
       "bg": "data/ultimatethumbnail/facebook.jpg"
     },
     {
