@@ -26,6 +26,7 @@
       "bg": "data/ultimatethumbnail/youtube.jpg"
     },
     {
+      "gridCount":1,
       "link": "data/facebook/info.json",
       "bg": "data/ultimatethumbnail/facebook.jpg"
     },
