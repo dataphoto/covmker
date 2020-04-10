@@ -11,7 +11,7 @@
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
-  "ads_app":"ads/ads.json",
+  "ads_app":"ads/newAds.json",
   "slider": [
     {
       "link": "data/business card/post21",
