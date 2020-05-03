@@ -1,7 +1,7 @@
 {
   "type": 1,
   "banner": 5,
-  "native_ads_pos": 1,
+  "native_ads_pos": 0,
   "sticker": "res/template/flyer maker/sticker/info.json",
   "background": "res/template/flyer maker/background/info.json",
   "am_ba": "oOQWOrUmH2lFtj8FI5Ev7+wtqi0rcA/TGRcRZTx+gSLuennOGak+xnUJGiKkt3wx",

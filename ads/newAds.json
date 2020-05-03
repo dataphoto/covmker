@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster.jpg",
-      "appName": "Film Poster Maker",
-      "description": "Film Poster Maker is the best app for creating beautiful film covers",
-      "package": "film.poster.photo.maker",
+      "appName": "Text on Photo",
+      "description": "Text to photo is a free application that helps users easily add text to photos",
+      "package": "beauty.shop.text.photo",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
