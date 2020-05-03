@@ -2,7 +2,7 @@
   "type": 1,
   "gridCount":1,
   "banner": 5,
-  "native_ads_pos": 1,
+  "native_ads_pos": 0,
   "sticker": "res/template/business card/sticker/info.json",
   "background": "res/template/business card/background/info.json",
   "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
