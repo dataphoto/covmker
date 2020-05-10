@@ -2,6 +2,7 @@
   "type": 1,
   "banner": 5,
   "native_ads_pos": 1,
+  "native_ads_app_pos": 2,
   "sticker": "res/template/flyer maker/sticker/info.json",
   "background": "res/template/flyer maker/background/info.json",
   "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
