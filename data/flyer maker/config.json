@@ -16,23 +16,23 @@
   "slider": [
     {
       "link": "data/flyer maker/post1",
-      "thumb": "res/template/flyer maker/thumbs/thumb_1.jpg"
+      "thumb": "res/template/flyer maker/thumbs/thum_1.jpg"
     },
     {
       "link": "data/flyer maker/post11",
-      "thumb": "res/template/flyer maker/thumbs/thumb_11.jpg"
+      "thumb": "res/template/flyer maker/thumbs/thum_11.jpg"
     },
     {
       "link": "data/flyer maker/post12",
-      "thumb": "res/template/flyer maker/thumbs/thumb_12.jpg"
+      "thumb": "res/template/flyer maker/thumbs/thum_12.jpg"
     },
     {
       "link": "data/flyer maker/post14",
-      "thumb": "res/template/flyer maker/thumbs/thumb_14.jpg"
+      "thumb": "res/template/flyer maker/thumbs/thum_14.jpg"
     },
     {
       "link": "data/flyer maker/post17",
-      "thumb": "res/template/flyer maker/thumbs/thumb_17.jpg"
+      "thumb": "res/template/flyer maker/thumbs/thum_17.jpg"
     }
   ]
 }
