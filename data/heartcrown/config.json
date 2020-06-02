@@ -1,0 +1,16 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/heartcrown/sticker/info.json",
+  "background": "res/template/ultimatethumbnail/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev762gcpcpHuKCiPo+VChXgMMEJ0vYTf3uJA1BmJqtsNBd",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev79TMRbYkRgfzk7FI214IdUxBDg8RKAJp6wJlug6KvpYa",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev7+zmfNBWy7o4At9FBKhtUivS1UPNmOlBqMiGEniWFG1k",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev7zcPQEHtO2R2moeWqBoJWNcnLkHwHlt7hLZjF5SHofEX",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+  ]
+}
