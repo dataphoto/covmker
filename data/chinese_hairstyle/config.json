@@ -1,0 +1,16 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/chinese_hairstyle/sticker/info.json",
+  "background": "res/template/birthday/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev72lG6GTT63qxW9FV0hp5LFVByXr+CQoIZcGTojvDMMzK",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev786dvjxHHspqdpMMEo9DfVnYmDeUea7BPQ2pAAgWYJK5",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev78L7ZZyoUPQWixKisX6e1QSzpAO7F7Z848UpWzTUQyJE",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev78ByHEG2FazE25x3e3weNNgx9NRwvTdnucp+Gr1qhFYb",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+  ]
+}
