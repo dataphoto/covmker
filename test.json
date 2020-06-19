@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "banner": 5,
+  "native_ads_pos": 1,
+  "sticker": "res/template/flyer maker/sticker/info.json",
+  "background": "res/template/flyer maker/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev7+wtqi0rcA/TGRcRZTx+gSLuennOGak+xnUJGiKkt3wx",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev75eT71oFF8xRWRC+Fz0s6OL23PUoDFvY+9EODjvfbNff",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev75t/AH3IMwkHJhVWi6FiDfPMX3YXCExS99nhqeqCshi7",
+  "link": "data/flyer maker/info.json",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev70nJfkcNR3JRgEACGLbiMPbwmxH/bXgtxgOt3rX6xtjO",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+    {
+      "link": "data/flyer maker/post1",
+      "thumb": "res/template/flyer maker/thumbs/thumb_1.jpg"
+    },
+    {
+      "link": "data/flyer maker/post11",
+      "thumb": "res/template/flyer maker/thumbs/thumb_11.jpg"
+    },
+    {
+      "link": "data/flyer maker/post12",
+      "thumb": "res/template/flyer maker/thumbs/thumb_12.jpg"
+    },
+    {
+      "link": "data/flyer maker/post14",
+      "thumb": "res/template/flyer maker/thumbs/thumb_14.jpg"
+    },
+    {
+      "link": "data/flyer maker/post17",
+      "thumb": "res/template/flyer maker/thumbs/thumb_17.jpg"
+    }
+  ]
+}
