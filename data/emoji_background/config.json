@@ -1,0 +1,16 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/emoji_background/sticker/info.json",
+  "background": "res/template/party/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev79EU03OgG9oIB8/meBPbMgfTxuHo5PLm0TrfH66aLved",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev79lj15mOFwjn5SMy81Awtz5OeBfO8UXa0O41VTokBY0t",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev77mh6K/K6Q+3rB8HqqKzWrI8jF0z044wIVAoc9rPjtFM",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev7w79ySWLenbbI+Mbj0xiVeSpyxS0s3ncw+lKsTQl7Y/u",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+  ]
+}
