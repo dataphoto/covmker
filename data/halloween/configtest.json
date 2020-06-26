@@ -1,0 +1,16 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/halloween/sticker/info.json",
+  "background": "res/background/info.json",
+  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
+  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
+  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
+  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+  ]
+}
