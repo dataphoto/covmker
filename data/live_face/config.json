@@ -1,0 +1,16 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/live_face/sticker/info.json",
+  "background": "res/template/film/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev73/kwNS6EZaL9KhnUNo88urgDTYL0hrqGC7+tZFRXb4o",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev7zeJ7jVpITyrwDCPEyUg6l15rB2KTOS1cU2/uOgDOJVH",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev74hwQ7sGKvYdIXwrv0VJdHQgRjbAiCMQdPtavpcD/EfM",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev7982nKN3BaauW5QVY2aptgXeQSWhkG1dobjJFswQIvV3",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+  ]
+}
