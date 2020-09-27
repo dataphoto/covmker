@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster3.jpg",
-      "appName": "Text on Photo",
-      "description": "Text to photo is a free application that helps users easily add text to photos",
-      "package": "beauty.shop.text.photo",
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png",
+      "appName": "Sweet Face Camera",
+      "description": "Use it to have playful time with your friends and take some interesting bunny photos choose different bunny effects or stickers and take photos as you like.",
+      "package": "beauty.picshop.sweet.face.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster2.jpg",
-      "appName": "Album Cover Creator",
-      "description": "Album Cover Creator is the best app for creating beautiful album covers. You can design amazing album art for your music albums or cd covers",
-      "package": "album.cover.creator",
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster3.jpg",
+      "appName": "Text on Photo",
+      "description": "Text to photo is a free application that helps users easily add text to photos",
+      "package": "beauty.shop.text.photo",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
