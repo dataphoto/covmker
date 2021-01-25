@@ -8,6 +8,7 @@
   "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "ads_list": ["fb", "am"],
   "watch_video":600,
   "ads_app":"ads/newAds.json",
   "link": "data/film/info.json",
