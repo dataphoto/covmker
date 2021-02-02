@@ -13,7 +13,7 @@
   "fb_in": "zijchNsW82sPKZ3z6sAfNwr3NsH701pYsvtEcJq8f2DFRtNhHHbxp7VrC3hBZyp/",
   "fb_re": "rIGDNbnPPMxqA5yghBn0pQISi4PY8d6iPFF6hmMUWyYiyhBmdITlUutBHKmmGuOR",
   "fb_na": "vn0PhFTb94IaDQ16AcMRNDVCwWwp6q3clh3rxLdrtqR1HIFJpKUA5rSpBGpbMz2Q",
-  "ads_list": ["fb", "am"],
+  "ads_list": ["am", "fb"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
