@@ -8,6 +8,13 @@
   "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
   "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+
+  "fb_ba": "rIGDNbnPPMxqA5yghBn0pQISi4PY8d6iPFF6hmMUWyYiyhBmdITlUutBHKmmGuOR",
+  "fb_in": "zijchNsW82sPKZ3z6sAfNwr3NsH701pYsvtEcJq8f2DFRtNhHHbxp7VrC3hBZyp/",
+  "fb_re": "rIGDNbnPPMxqA5yghBn0pQISi4PY8d6iPFF6hmMUWyYiyhBmdITlUutBHKmmGuOR",
+  "fb_na": "vn0PhFTb94IaDQ16AcMRNDVCwWwp6q3clh3rxLdrtqR1HIFJpKUA5rSpBGpbMz2Q",
+  "ads_list": ["fb", "am"],
+
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/newAds.json",
