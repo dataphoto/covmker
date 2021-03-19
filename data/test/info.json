@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/test/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/test/post2",
+          "thumb": "res/template/album/thumbs/thumb-02.jpg"
+        }
+      ]
+    }
+  ]
+}
