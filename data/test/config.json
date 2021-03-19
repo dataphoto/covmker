@@ -9,12 +9,8 @@
   "link": "data/test/info.json",
   "slider": [
     {
-      "link": "data/test/post1",
+      "link": "data/test/post25",
       "thumb": "res/template/album/thumbs/thumb-25.jpg"
-    },
-    {
-      "link": "data/test/post2",
-      "thumb": "res/template/album/thumbs/thumb-21.jpg"
     }
   ]
 }
