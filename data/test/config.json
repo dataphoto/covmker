@@ -6,7 +6,7 @@
   "background": "res/template/album/background/info.json",
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
-  "ads_app":"ads/ads.json",
+  "ads_app":"ads/newAds.json",
   "link": "data/test/info.json",
   "slider": [
     {
