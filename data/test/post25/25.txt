@@ -1,0 +1,37 @@
+{
+  "name": "template_25",
+  "background": "bg_template_25.jpg",
+  "text": [
+    {
+      "text": "FLOWER\nNEST",
+      "color": "#ffffff",
+      "size": "179.52",
+      "spacing": "40",
+      "align": "L",
+      "line": "215.43",
+      "x": 0,
+      "y": 0,
+      "font": "res/fonts/norwester.otf"
+    },
+    {
+      "text": "blues\nrock\nmusic",
+      "color": "#ffffff",
+      "size": "45.49",
+      "font": "res/fonts/Kollektif.ttf",
+      "x": 0,
+      "y": 0,
+      "spacing": "340",
+      "align": "L",
+      "line": "54.58"
+    }
+  ],
+  "image": [
+    {
+      "path": "image_template_25.png",
+      "x": 0,
+      "y": 0,
+      "width": "824",
+      "height": "824"
+    }
+  ]
+}

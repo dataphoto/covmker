@@ -1,6 +1,7 @@
 {
  "type": 1,
   "native_ads_pos": 0,
+  "native_ads_app_pos":2,
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
   "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
