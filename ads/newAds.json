@@ -12,10 +12,10 @@
     },
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png",
-      "appName": "Sweet Face Camera",
-      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "beauty.picshop.sweet.face.camera",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png",
+      "appName": "Filters for Selfies",
+      "description": "Fantastic add photo filters and stickers free and creative, cool smiley filters to your photo",
+      "package": "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
