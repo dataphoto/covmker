@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png", 
-  "appName" : "Sweet Face Camera",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png", 
+  "appName" : "Sweet Live Filter",
   "shortDecripsion" : "Use face camera offers snap for absolutely funny and stunning face modifications",
-  "package" : "beauty.picshop.sweet.face.camera",
+  "package" : "beauty.picshop.sweet.live.filter.cat.face.camera",
   "link" : "",
   "actionText" : "VISIT APP"
 }
