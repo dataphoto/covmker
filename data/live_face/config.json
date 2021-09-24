@@ -9,7 +9,12 @@
   "am_na": "KRsn3kw/7LFAR9uC+ScpTA5atQnWDiRwQlbQYv1z20o1JbfYW2J3TV/g+/b/ctPQ",
   "am_vi": "",
 
-  "ads_list": ["am"],
+  "mp_ba": "AnadUk9dEhGIgQoqHZAFOYSq/YzntilZrkcEm8ERD8M5tWCDDAIJTdsTcx8fiLN0",
+  "mp_in": "hWjsNN0kVAnUQAU++wK++ET6tw3gy597mWQeOjZV+AAqrv1Bn1NOt4q4PEysW4d9",
+  "mp_na": "aO+AsmFf0VWC2RKTuOofROa7xqpvvWOJmlCdTbbqobLWtG90f9Of8aDPCFn++Xjh",
+  "mp_re": "2GAH4EFCynCx63R5Pm6Ml+V2k5pYLCL+CO/jVIHJiaCAwu/GpNoO2lqeWyq2nyQb",
+
+  "ads_list": ["am", "mp"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
