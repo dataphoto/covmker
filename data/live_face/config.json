@@ -9,12 +9,17 @@
   "am_na": "KRsn3kw/7LFAR9uC+ScpTA5atQnWDiRwQlbQYv1z20o1JbfYW2J3TV/g+/b/ctPQ",
   "am_vi": "",
 
+  "fb_ba": "XVUb6d1CVxiqzH9FVDEX3xQySWmXeHjB4Hg5oCUrv8J44Mk7dEQpgHNQOEo1kE81",
+  "fb_in": "XVUb6d1CVxiqzH9FVDEX34VrNXnbqHKmTmyOJ3cTc5SbTAZDfyu9hU00jNyGcync",
+  "fb_re": "XVUb6d1CVxiqzH9FVDEX30BmozccYtHu8RzBTlDAKxn/kpDzZ6yrLMsUHbNW/mvc",
+  "fb_na": "XVUb6d1CVxiqzH9FVDEX3/dShYeKCog4DBX0VJuawKXy0gM80M7oFjy39zfws9Yi",
+
   "mp_ba": "AnadUk9dEhGIgQoqHZAFOYSq/YzntilZrkcEm8ERD8M5tWCDDAIJTdsTcx8fiLN0",
   "mp_in": "hWjsNN0kVAnUQAU++wK++ET6tw3gy597mWQeOjZV+AAqrv1Bn1NOt4q4PEysW4d9",
   "mp_na": "aO+AsmFf0VWC2RKTuOofROa7xqpvvWOJmlCdTbbqobLWtG90f9Of8aDPCFn++Xjh",
   "mp_re": "2GAH4EFCynCx63R5Pm6Ml+V2k5pYLCL+CO/jVIHJiaCAwu/GpNoO2lqeWyq2nyQb",
 
-  "ads_list": ["am", "mp"],
+  "ads_list": ["fb", "mp", "am"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
