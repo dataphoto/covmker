@@ -19,7 +19,7 @@
   "mp_na": "aO+AsmFf0VWC2RKTuOofROa7xqpvvWOJmlCdTbbqobLWtG90f9Of8aDPCFn++Xjh",
   "mp_re": "2GAH4EFCynCx63R5Pm6Ml+V2k5pYLCL+CO/jVIHJiaCAwu/GpNoO2lqeWyq2nyQb",
 
-  "ads_list": ["mp", "am", "fb"],
+  "ads_list": ["fb", "mp", "am"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
