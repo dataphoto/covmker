@@ -4,9 +4,9 @@
   "native_ads_app_pos": 1,
   "sticker": "res/template/live_face/sticker/info.json",
   "background": "res/template/film/background/info.json",
-  "am_ba": "KRsn3kw/7LFAR9uC+ScpTGTowbbg7mGBJvKO78p8o1DRvnqL/0CXbKdrdP+FrlwD",
-  "am_in": "KRsn3kw/7LFAR9uC+ScpTO0KY6fvModr8y5NCAgaKXl5f6VuPlZT7Urc1vYtEAWC",
-  "am_na": "KRsn3kw/7LFAR9uC+ScpTA5atQnWDiRwQlbQYv1z20o1JbfYW2J3TV/g+/b/ctPQ",
+  "am_ba": "",
+  "am_in": "",
+  "am_na": "",
   "am_vi": "",
 
   "fb_ba": "XVUb6d1CVxiqzH9FVDEX3xQySWmXeHjB4Hg5oCUrv8J44Mk7dEQpgHNQOEo1kE81",
@@ -19,7 +19,7 @@
   "mp_na": "aO+AsmFf0VWC2RKTuOofROa7xqpvvWOJmlCdTbbqobLWtG90f9Of8aDPCFn++Xjh",
   "mp_re": "2GAH4EFCynCx63R5Pm6Ml+V2k5pYLCL+CO/jVIHJiaCAwu/GpNoO2lqeWyq2nyQb",
 
-  "ads_list": ["mp", "am", "fb"],
+  "ads_list": ["mp", "fb"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
