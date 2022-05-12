@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png", 
-  "appName" : "Live Face Sticker",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png", 
+  "appName" : "Sweet Face Camera",
   "shortDecripsion" : "Use face camera offers snap for absolutely funny and stunning face modifications",
-  "package" : "com.sweet.camera.selfie.sweet.snap.live.face.sticker",
+  "package" : "sweet.snap.face.camera.art",
   "link" : "",
   "actionText" : "VISIT APP"
 }
