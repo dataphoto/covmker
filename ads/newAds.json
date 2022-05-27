@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png",
+      "appName": "Makeup Camera",
+      "description": "Fantastic add photo filters and stickers free and creative, cool smiley filters to your photo",
+      "package": "photoBeautyPlus.makeup.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png",
       "appName": "Sweet Face Camera",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
       "package": "sweet.snap.face.camera.art",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png",
-      "appName": "Live Face Sticker",
-      "description": "Fantastic add photo filters and stickers free and creative, cool smiley filters to your photo",
-      "package": "com.sweet.camera.selfie.sweet.snap.live.face.sticker",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
