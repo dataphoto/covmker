@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png", 
-  "appName" : "Makeup Camera",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png", 
+  "appName" : "Neon Horns Devil",
   "shortDecripsion" : "Use face camera offers snap for absolutely funny and stunning face modifications",
-  "package" : "photoBeautyPlus.makeup.camera",
+  "package" : "neon.horns.devil",
   "link" : "",
   "actionText" : "VISIT APP"
 }
