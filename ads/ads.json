@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png", 
-  "appName" : "Album Cover Maker",
-  "shortDecripsion" : "Album Cover Maker is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
-  "package" : "com.photo.beauty.plus.album.cover",
+  "icon" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png", 
+  "appName" : "Crown Heart Photo Editor",
+  "shortDecripsion" : "Use face camera offers snap for absolutely funny and stunning face modifications",
+  "package" : "crown.heart.photo.editor",
   "link" : "",
   "actionText" : "VISIT APP"
 }
