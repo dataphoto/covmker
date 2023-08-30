@@ -25,7 +25,7 @@
       "ads_list": ["am"],
 
       "status":2,
-      "version_code":10,
+      "version_code":0,
       "update_info":{
         "update_title":"A new version is available",
         "button_name":"Update app",
