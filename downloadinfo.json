@@ -1,0 +1,45 @@
+[
+  {
+    "neon.horn.devil.test": {
+      "am_ba": "ca-app-pub-3611895700562610/4306310047",
+      "am_in": "ca-app-pub-3611895700562610/2993228370",
+      "am_na": "ca-app-pub-3611895700562610/4145979203",
+
+      "al_re": "0ab3bfcb0b47b034",
+      "al_in": "df315178c57bd67a",
+      "al_ba": "7fb23bd255f35eb2",
+
+      "is_id": "165919cc5",
+
+      "interval": 60000,
+
+      "ads_list": ["is", "am"]
+    },
+    "cover.maker.filter.selfie": {
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+
+      "is_id": "",
+
+      "ads_list": ["am"],
+
+      "status":2,
+      "version_code":10,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2023 football Women's World Cup live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football.",
+        "package":"com.women.worldcup",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/icon.png",
+        "app_name":"Women World Cup 2023 Live"
+      }
+    }
+  },
+  {
+    "common": {
+      "interval": 10000
+    }
+  }
+]
