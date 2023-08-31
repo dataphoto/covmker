@@ -15,7 +15,7 @@
 
       "ads_list": ["is", "am"]
     },
-    "cover.maker.filter.selfie": {
+    "cover.maker.filter.selfie.test": {
       "am_ba": "",
       "am_in": "",
       "am_na": "",
@@ -39,7 +39,7 @@
   },
   {
     "common": {
-      "interval": 45000
+      "interval": 10000
     }
   }
 ]
