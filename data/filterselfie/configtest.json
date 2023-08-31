@@ -8,6 +8,9 @@
   "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
   "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
   "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "is_id": "vuNDzCDUT72dGEGsUnUWxg==",
+  "ads_list": ["is", "am"],
+
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/newAds.json",
