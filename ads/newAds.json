@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic.png",
-      "appName": "Crown Heart Photo Editor",
-      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "crown.heart.photo.editor",
+      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic1.png",
+      "appName": "Filters for Selfies",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/graphic1.png",
-      "appName": "Album Cover Maker",
-      "description": "Album Cover Maker is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
-      "package": "com.photo.beauty.plus.album.cover",
+      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.png",
+      "appName": "Filters for pictures",
+      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
+      "package": "filters.pictures.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
