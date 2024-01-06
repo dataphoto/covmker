@@ -4,17 +4,19 @@
   "native_ads_app_pos": 1,
   "sticker": "res/template/filterselfie/sticker/info.json",
   "background": "res/template/flyer maker/background/info.json",
-  "am_ba": "",
-  "am_in": "",
-  "am_na": "",
+  "am_ba": "aFGxPWRaO5GBmEcE9HxMu16OAZYb7zzvRhkhWpkwnPrmmJNykhbt81tymtKR8ClP",
+  "am_in": "aFGxPWRaO5GBmEcE9HxMu+g80Ivzl9rveT8cWQFHiA4IHcZ1gwz/acbOG4sQUemW",
+  "am_na": "aFGxPWRaO5GBmEcE9HxMu/NZW8ZXfs8zwQStSEA6SL0uZL0Rt0K5FKx8YTgpY7U3",
   "am_vi": "",
+
+  "app_id": "aFGxPWRaO5GBmEcE9HxMu3Nn+lj88wk4vMrtfhX1mftpgY3wyIpg2KP1+6SvXkU3",
 
   "al_re": "",
   "al_in": "vPypkLLcJu7o8SHfumAa0KwlNT39KhJnvug1thECdBc=",
   "al_ba": "7gggAljJrhB6i2y26Pit6yXtksYsrEtX9shvYDHtF1g=",
   "al_na": "ZHWYV/13vIzaedSlHxHr+xXAjVZVo3melSrVDBZsaGw=",
 
-  "ads_list": ["al"],
+  "ads_list": ["al", "am"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
