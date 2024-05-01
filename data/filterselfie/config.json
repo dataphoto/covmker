@@ -4,19 +4,20 @@
   "native_ads_app_pos": 1,
   "sticker": "res/template/filterselfie/sticker/info.json",
   "background": "res/template/flyer maker/background/info.json",
+  
   "am_ba": "",
-  "am_in": "",
+  "am_in": "6WoGNcU0O6hX6bCX2tX2zMKatCg03uJUP8V2CR4KvHXfJUsW3bdiHRO9ZA26V6+0",
   "am_na": "",
   "am_vi": "",
 
-  "app_id": "",
+  "app_id": "ca-app-pub-6375132035172052~1065822930",
 
   "al_re": "",
   "al_in": "vPypkLLcJu7o8SHfumAa0KwlNT39KhJnvug1thECdBc=",
   "al_ba": "7gggAljJrhB6i2y26Pit6yXtksYsrEtX9shvYDHtF1g=",
   "al_na": "ZHWYV/13vIzaedSlHxHr+xXAjVZVo3melSrVDBZsaGw=",
 
-  "ads_list": ["al"],
+  "ads_list": ["am", "al"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
