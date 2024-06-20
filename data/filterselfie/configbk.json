@@ -5,19 +5,19 @@
   "sticker": "res/template/filterselfie/sticker/info.json",
   "background": "res/template/flyer maker/background/info.json",
   
-  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
-  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
-  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
-  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "am_ba": "",
+  "am_in": "",
+  "am_na": "",
+  "am_vi": "",
 
   "app_id": "",
 
   "al_re": "",
-  "al_in": "",
-  "al_ba": "",
-  "al_na": "",
+  "al_in": "vPypkLLcJu7o8SHfumAa0KwlNT39KhJnvug1thECdBc=",
+  "al_ba": "7gggAljJrhB6i2y26Pit6yXtksYsrEtX9shvYDHtF1g=",
+  "al_na": "ZHWYV/13vIzaedSlHxHr+xXAjVZVo3melSrVDBZsaGw=",
 
-  "ads_list": ["am"],
+  "ads_list": ["al"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
