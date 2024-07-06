@@ -5,7 +5,7 @@
       "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic1.png",
       "appName": "Filter for Picture",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "filter.picture.camera.selfie",
+      "package": "filter.picture.camera.selfie.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
@@ -13,7 +13,7 @@
     {
       "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.jpg",
-      "appName": "Filter for Selfie",
+      "appName": "Heart Crown Editor",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
       "package": "beautyroom.heart.crown.editor",
       "link": "",
