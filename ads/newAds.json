@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic1.png",
-      "appName": "Filter for Picture",
+      "appName": "Hairstyle Try On",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "filter.picture.camera.selfie.beauty",
+      "package": "foto.arte.hair.color.changer",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
