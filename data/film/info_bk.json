@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "list": [
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/film/thumbs/thumb_1.jpg"
+        },
+        {
+          "link": "data/film/post2",
+          "thumb": "res/template/film/thumbs/thumb_2.jpg"
+        },
+        {
+          "link": "data/film/post3",
+          "thumb": "res/template/film/thumbs/thumb_3.jpg"
+        },
+        {
+          "link": "data/film/post4",
+          "thumb": "res/template/film/thumbs/thumb_4.jpg"
+        },
+        {
+          "link": "data/film/post5",
+          "thumb": "res/template/film/thumbs/thumb_5.jpg"
+        },
+        {
+          "link": "data/film/post6",
+          "thumb": "res/template/film/thumbs/thumb_6.jpg"
+        },
+        {
+          "link": "data/film/post7",
+          "thumb": "res/template/film/thumbs/thumb_7.jpg"
+        },
+        {
+          "link": "data/film/post8",
+          "thumb": "res/template/film/thumbs/thumb_8.jpg"
+        },
+        {
+          "link": "data/film/post9",
+          "thumb": "res/template/film/thumbs/thumb_9.jpg"
+        },
+        {
+          "link": "data/film/post10",
+          "thumb": "res/template/film/thumbs/thumb_10.jpg"
+        },
+        {
+          "link": "data/film/post11",
+          "thumb": "res/template/film/thumbs/thumb_11.jpg"
+        },
+        {
+          "link": "data/film/post12",
+          "thumb": "res/template/film/thumbs/thumb_12.jpg"
+        },
+        {
+          "link": "data/film/post13",
+          "thumb": "res/template/film/thumbs/thumb_13.jpg"
+        },
+        {
+          "link": "data/film/post14",
+          "thumb": "res/template/film/thumbs/thumb_14.jpg"
+        },
+        {
+          "link": "data/film/post15",
+          "thumb": "res/template/film/thumbs/thumb_15.jpg"
+        },
+        {
+          "link": "data/film/post16",
+          "thumb": "res/template/film/thumbs/thumb_16.jpg"
+        },
+        {
+          "link": "data/film/post17",
+          "thumb": "res/template/film/thumbs/thumb_17.jpg"
+        },
+        {
+          "link": "data/film/post18",
+          "thumb": "res/template/film/thumbs/thumb_18.jpg"
+        },
+        {
+          "link": "data/film/post19",
+          "thumb": "res/template/film/thumbs/thumb_19.jpg"
+        },
+        {
+          "link": "data/film/post20",
+          "thumb": "res/template/film/thumbs/thumb_20.jpg"
+        }
+      ]
+    }
+  ],
+  "type": 2,
+  "banner": 5,
+  "native_ads_pos": 1,
+  "sticker": "res/album/sticker/info.json",
+  "background": "res/album/background/info.json",
+  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
+  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
+  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q"
+}
