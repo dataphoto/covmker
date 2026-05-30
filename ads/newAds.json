@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic1.png",
-      "appName": "Hairstyle Try On",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "foto.arte.hair.color.changer",
+      "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/graphic1.png",
+      "appName": "Body Shape & Beauty",
+      "description": "Body Shape & Beauty can help you reshape body curves to get the slim body, perfect figure, thin waist, long legs, abs.",
+      "package": "body.shape.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/data040522/toanhmsg/master/ads/graphic.jpg",
-      "appName": "Heart Crown Editor",
+      "icon": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data031020/frameshop/master/ads/graphic.png",
+      "appName": "Filters for Sweet Camera",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "beautyroom.heart.crown.editor",
+      "package": "sweet.selfie.filters.snap",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
