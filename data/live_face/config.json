@@ -16,7 +16,9 @@
   "fb_re": "XVUb6d1CVxiqzH9FVDEX30BmozccYtHu8RzBTlDAKxn/kpDzZ6yrLMsUHbNW/mvc",
   "fb_na": "XVUb6d1CVxiqzH9FVDEX3/dShYeKCog4DBX0VJuawKXy0gM80M7oFjy39zfws9Yi",
 
-  "ads_list": ["am", "fb"],
+  "is_id": "Lh7IjzLCpGew837V0waDIA==",
+
+  "ads_list": ["is", "am"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
