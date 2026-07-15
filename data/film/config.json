@@ -4,11 +4,11 @@
   "sticker": "res/template/film/sticker/info.json",
   "background": "res/template/film/background/info.json",
   "am_ba": "",
-  "am_in": "KwN0oiM8E5x9gfTjL+tlw81LX+ppqhTNz4rG4F6WcN4I+Zw8y3jkNxDyo4U5UT4k",
+  "am_in": "",
   "am_na": "",
   "am_vi": "",
   "is_id": "COVsgeHdVX9j/9Jr0HIVjw==",
-  "ads_list": ["is", "am"],
+  "ads_list": ["is"],
 
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
   "watch_video":600,
